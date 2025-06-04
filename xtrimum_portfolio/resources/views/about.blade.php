@@ -21,21 +21,21 @@
     <div class="container">
       <div class="row justify-content-center text-center mb-5">
         <div class="col-lg-8">
-          <h2 class="fw-bold">About Me</h2>
+          <h2 class="fw-bold">About Us</h2>
           <p class="lead text-muted">"Turning ideas into secure, scalable, and user-friendly applications — one line of code at a time."</p>
         </div>
       </div>
   
       <div class="row mb-5">
         <div class="col-md-6">
-          <h4 class="fw-semibold">Who I Am</h4>
-          <p>I’m <strong>Atekelt Afework</strong>, a full-stack developer with 5+ years of experience building everything from fintech systems and e-learning platforms to interactive games and blog engines. Whether you need a freelancer, a long-term collaborator, or a dedicated remote developer — I'm equipped to contribute value immediately.</p>
-          <p>I'm passionate about innovation, performance, and security, and I love helping individuals and organizations bring their digital ideas to life using the right technologies and clean, maintainable code.</p>
+          <h4 class="fw-semibold">Who We Are</h4>
+          <p>At XTRIMUM, we are a full-service software development company with over five years of experience delivering high-quality digital solutions. Our team of expert developers, designers, and engineers has successfully built and deployed a wide range of products — from fintech systems and e-learning platforms to interactive games and scalable content engines.</p>
+          <p>We’re passionate about driving innovation, optimizing performance, and ensuring top-tier security across every project. Whether you're a startup seeking a reliable tech partner or an enterprise in need of a scalable development team, we are equipped to bring your digital vision to life with precision and clean, maintainable code.</p>
         </div>
   
         <div class="col-md-6">
           <h4 class="fw-semibold">Mission</h4>
-          <p>To build high-quality software that empowers people and businesses. I believe in accessible design, secure development, and continuous improvement. Every project is an opportunity to solve real problems, drive innovation, and make technology more human.</p>
+          <p>To build high-quality software that empowers people and businesses. We believe in accessible design, secure development, and continuous improvement. Every project is an opportunity to solve real problems, drive innovation, and make technology more human.</p>
         </div>
       </div>
   

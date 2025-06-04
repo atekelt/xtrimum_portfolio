@@ -39,8 +39,10 @@
     <div class="container">
         <div class="row justify-content-end">
             <div class="col-md-8">
-                <h2>Full-Stack <span>Developer</span>, tech enthusiast, and creator of platforms like <span>Blogs</span> and <span>Keza Delivery</span></h2>
-                <p>I'm a passionate developer with over 5 years of experience building web and mobile applications. From fintech systems to e-learning platforms, I specialize in creating scalable, user-friendly solutions using modern technologies and frameworks.</p>
+                <h2>Innovative <span>Full-Stack</span> Development at Scale</h2>
+                <p>We are a technology-driven company with a proven track record in developing robust web and mobile platforms. With over five years of industry experience and a growing team of more than 100 skilled professionals, we specialize in building scalable, user-centric solutions across diverse sectors—including fintech, logistics, and e-learning.</p>
+
+                  <p>Our portfolio includes powerful platforms such as Blogs and Keza Delivery, reflecting our commitment to innovation, performance, and impact.</p>
             </div>
         </div>
     </div>

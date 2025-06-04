@@ -4,7 +4,7 @@
         <div class="col-md">
           <div class="ftco-footer-widget mb-4">
             <h2 class="ftco-heading-2">About Us</h2>
-            <p>Full-Stack Developer, tech enthusiast, and creator of platforms like Blogs and Keza Delivery</p>
+            <p>A technology-driven company with a proven track record in developing robust web and mobile platforms.</p>
             <ul class="ftco-footer-social list-unstyled float-md-left float-lft mt-5">
               <li class="ftco-animate"><a href="#"><span class="icon-telegram"></span></a></li>
               <li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li>
@@ -51,7 +51,7 @@
                 <li>
                   <a href="mailto:Xtrimumsolution@gmail.com">
                     <span class="icon icon-envelope"></span>
-                    <span class="text">Xtrimumsolution@gmail.com</span>
+                    <span class="text">xtrimumsolution@gmail.com</span>
                   </a>
                 </li>
               </ul>

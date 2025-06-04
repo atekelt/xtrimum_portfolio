@@ -44,7 +44,7 @@
                     <span class="icon-paper-plane"></span>
                 </div>
                 <h3 class="mb-4">Email Address</h3>
-              <p><a href="mailto:atekeltafework55@gmail.com">atekeltafework55@gmail.com</a></p>
+              <p><a href="mailto:xtrimumsolution@gmail.com">xtrimumsolution@gmail.com</a></p>
             </div>
         </div>
         <!-- <div class="col-md-3 d-flex">
@@ -63,7 +63,7 @@
       <section class="container ftco-section ftco-no-pt ftco-no-pb contact-section">
     <div class="p-2 m-4">
     <!-- Google Calendar Appointment Scheduling begin -->
-<iframe src="https://calendar.google.com/calendar/appointments/schedules/AcZssZ0MXjdb2VhO3dhX5FpCJmHUPVUq5F4xbjoJrxg4ZTpOhhyrBWBtgUShWQn1jNpkL1rB5sFLWoHu?gv=true" style="border: 0" width="100%" height="600" frameborder="0"></iframe>
+<iframe src="https://calendar.google.com/calendar/appointments/schedules/AcZssZ3mdX_ZwaXidMON82tqWozmk_AzZbr48eQW2yePPnP6qcXpdNuToGcGtCb1nNuLFtWnVkRDztx3?gv=true" style="border: 0" width="100%" height="600" frameborder="0"></iframe>
 <!-- end Google Calendar Appointment Scheduling -->
 </div>
   </section>
