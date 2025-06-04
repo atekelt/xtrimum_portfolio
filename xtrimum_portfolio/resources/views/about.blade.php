@@ -71,9 +71,9 @@
       </div>
   
       <div class="text-center">
-        <a href="files/Atekelt Afework CV 2025.pdf" download target="_blank"  class="btn btn-dark btn-lg me-2" download>
+        {{-- <a href="files/Atekelt Afework CV 2025.pdf" download target="_blank"  class="btn btn-dark btn-lg me-2" download>
           📄 Download CV
-        </a>
+        </a> --}}
         <a href="{{ route('contact') }}" class="btn btn-outline-dark btn-lg">
           📬 Get in Touch
         </a>
